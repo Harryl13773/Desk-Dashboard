@@ -1,6 +1,6 @@
 # Desk-Dashboard
 
-A WiFi-connected desk display built on a Raspberry Pi Pico 2 W and a 3.5" IPS panel. A rotary encoder cycles through four screens — **Overview**, **Time**, **7-Day Forecast**, and **Agenda** — pulling live weather from [Open-Meteo](https://open-meteo.com/) and calendar events from a Google Apps Script endpoint. Powered by a single USB-C input that also drives a Qi wireless charging pad and a dual USB-A charging board.
+A WiFi-connected desk display built on a Raspberry Pi Pico 2 W and a 3.5" IPS panel. A rotary encoder cycles through four screens: **Overview**, **Time**, **7-Day Forecast**, and **Agenda**, pulling live weather from [Open-Meteo](https://open-meteo.com/) and calendar events from a Google Apps Script endpoint. Powered by a single USB-C input that also drives a Qi wireless charging pad and a dual USB-A charging board.
 
 ## Features
 
